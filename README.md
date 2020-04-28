@@ -1,6 +1,3 @@
-#Introduction
-
-
 - **Name -** Abhishek Sharma
 - **Year -** 1st yr
 - **Branch -** CSE Big Data
